@@ -1,0 +1,6 @@
+{
+  "name": "Gestor Financeiro Pessoal",
+  "description": "Uma ferramenta simples para registrar e categorizar despesas pessoais, com resumo mensal e processamento de linguagem natural.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
